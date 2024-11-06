@@ -2,6 +2,7 @@ body {
     color: white;
     background: black;
     font-family: "Oswald", sans-serif;
+    margin-bottom: 100px;
 }
 
 
@@ -37,6 +38,7 @@ p{
 .categoria {
     padding-left: 80px;
     padding-right: 80px;
+    margin-top: 50px;
 }
 .categoria-videos img {
 opacity: 0.5;
@@ -47,3 +49,6 @@ height: 200px;
     opacity: 1.0;
 border: 1px solid darkblue;
 }
+.categoria h2 { 
+color: rgb(6, 95, 212);
+} 
